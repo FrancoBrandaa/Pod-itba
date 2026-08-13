@@ -1,6 +1,6 @@
 # Ejercicio 1
 
-Listar todas las posibles salidas que podrían obtenerse cuando se ejecuta el siguiente código, sin utilizar `core`.
+Listar todas las posibles salidas que podrían obtenerse cuando se ejecuta el siguiente código, en un sistema multicore.
 
 ```java
 package ar.edu.itba.pod.concurrency.threads.tp.ej1;
